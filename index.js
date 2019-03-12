@@ -1,6 +1,6 @@
 // write your code below!
 
-function happyHolidays = function() {
+function happyHolidays() {
   $value = "Happy holidays!"
   return $value.toString()
 }
