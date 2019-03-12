@@ -1,5 +1,6 @@
 // write your code below!
 
 function happyHolidays = function() {
-  return String("Happy holidays!");
+  $value = "Happy holidays!";
+  return $value;
 }
