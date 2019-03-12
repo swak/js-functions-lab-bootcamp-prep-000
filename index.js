@@ -2,5 +2,5 @@
 
 function happyHolidays = function() {
   $value = "Happy holidays!"
-  return $value
+  return $value.toString()
 }
